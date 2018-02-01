@@ -37,9 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 Had to build a new app, the old app kept crashing for unknown reasons
 The error given was array out of bounds which after debugging was not so.
-
-Because I used a friends Mac getting permission to git was not possible, as well as adding additional features within the 
-time constraint
+t
 
 
 ## License
