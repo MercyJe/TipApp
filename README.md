@@ -28,7 +28,7 @@ Allow the user to add a custom tip percentage
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/Rm46v5u.gifv
+<img src='https://i.imgur.com/Rm46v5u.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 Had to build a new app, the old app kept crashing for unknown reasons
 The error given was array out of bounds which after debugging was not so.
-t
+
 
 
 ## License
